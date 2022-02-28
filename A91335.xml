@@ -1,0 +1,151 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A publick plea, opposed to a private proposal, or, Eight necessary queries presented to the Parliament and Armies consideration, in this morning of freedom, after a short, but a sharp night of tyranny and oppression. By one who hates both treason and traitors.</title>
+            <author>One who hates both treason and traitors.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91335</idno>
+            <idno type="STC">Wing P4156</idno>
+            <idno type="STC">Thomason E983_18</idno>
+            <idno type="STC">ESTC R203346</idno>
+            <idno type="EEBO-CITATION">99863321</idno>
+            <idno type="PROQUEST">99863321</idno>
+            <idno type="VID">168579</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91335)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168579)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 146:E983[18])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A publick plea, opposed to a private proposal, or, Eight necessary queries presented to the Parliament and Armies consideration, in this morning of freedom, after a short, but a sharp night of tyranny and oppression. By one who hates both treason and traitors.</title>
+                  <author>One who hates both treason and traitors.</author>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for L. Chapman, at the Crown in Popes-Head-Alley,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "May 18th"; "May 18".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168579:1" rendition="simple:additions"/>
+            <p>A Publick PLEA, Oppoſed to A PRIVATE PROPOSAL, OR, Eight neceſſary QUERIES Preſented to the Parliament and Armies conſideration, in this morning of Free<g ref="char:EOLhyphen"/>dom, after a ſhort, but a ſharp night of Tyranny and oppreſſion.</p>
+            <p>By one who hates both Treaſon and Traitors.</p>
+            <p>
+               <add>May 28.<hi rend="sup">th.</hi>
+               </add>
+               <hi>LONDON:</hi> Printed for <hi>L. Chapman,</hi> at the Crown in Popes-Head-Alley. 1659. <add>May 28</add>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:168579:2"/>
+            <pb n="1" facs="tcp:168579:2"/>
+            <head>A PUBLICK PLEA, Oppoſed to A Private PROPOSAL. Or, Eight neceſſary Queries, &amp;c.</head>
+            <p n="1">1. WHether it be not a needfull Teſtimony of thankfulneſſe to God, who hath wrought ſo happy a change in the Common<g ref="char:EOLhyphen"/>wealth, and diſſolved a new ſyranny (become here<g ref="char:EOLhyphen"/>ditary) ſo unexpectedly, ſo ſpeedily, ſo eaſily, and without bloudſhed, that the Parliament appointed a ſolemne Thankſgiving for ſuch a ſignal mercy recei<g ref="char:EOLhyphen"/>ved, both in behalf of the whole people, delivered from ſo manifeſt a ſlavery againſt all our fundamental Laws, and alſo in reference to themſelves, whom God hath ſo highly honoured as once more to make them his choſen inſtruments, and to put into their hands ſo great an opportunity to make this Nation, with the Dominions thereof, a happy, free, and flouriſhing Commonwealth?</p>
+            <p n="2">2. Whether they be not obliged more then ever any other preceding Parliaments were, to chuſe and bring into all their Councels, Committees and Offices (Military and Civil) men of unbiaſt judgements, and unblameable converſations, who have not acted arbi<g ref="char:EOLhyphen"/>trarily under the uſurped power of a ſingle perſon in deſpire of Parliaments. And whether it be not proper for this preſent Parliament, who changed the Govern<g ref="char:EOLhyphen"/>ment
+<pb n="2" facs="tcp:168579:3"/>
+from a Kingly to a Commonwealth, to introduce ſpeedily into their ſteads (who have ſo ſhamefully for<g ref="char:EOLhyphen"/>ſaken the <hi>Good Old Cauſe</hi> onely) ſuch as would not act in the Councels of <hi>Oliver,</hi> nor in the Army, or were otherwayes for their fidelity outed of their Com<g ref="char:EOLhyphen"/>mands, nay, moſt arbitrarily caſheered, impriſoned, baniſhed, and oppreſſed in their perſons and eſtates? untill ſuch be rewarded and reſtored (in all reſpects) who will not ſuſpect the preſent power in all their o<g ref="char:EOLhyphen"/>ther enterpriſes, how ſpacious ſoever?</p>
+            <p n="3">3. Whether therefore the preſent Repreſentative ought not to lay aſide in themſelves, and zealouſly to oppoſe in any of their Members all perpetuation of power, ambitious ſelf-ſeeking deſigns (how cunningly ſoever covered, or contrived) and to have ever in their mindes that precept of our Saviour given expreſly to ſuch as ſhould be Chriſtian Magiſtrates in future ages, whereby he plainly pleads againſt all Courtly pride and pomp in Chriſtian Governments, as Heatheniſh and unholy, forbidding them to be like the Kings of the Gentiles, exerciſing Lordſhip over the people; to be called Benefactors, Protectors, or by any other ſuch like proud, vain-glorious titles? ye ſhall not be ſo, but he that is greateſt among you, let him be as the youn<g ref="char:EOLhyphen"/>ger; and he that is chief, as he that doth ſerve, <hi>Luke</hi> 22. whereby is ſignified the moderation which ought to be in Chriſtian Governors, looking more at their burden, and the diſcharging of the truſt which they have un<g ref="char:EOLhyphen"/>dertaken, then any outward Honors or Commands over others, which onely puff up Aſpirers, transform<g ref="char:EOLhyphen"/>ing them into Paraſites and Apoſtates, Courtiers and Canaanites on the <hi>Good Old Cauſe?</hi>
+            </p>
+            <p n="4">4. And ſince it hath pleaſed Almighty God of his mercy ſo highly to honour our Army (at leaſt the honeſt Officers and Souldiers in it) as to touch them
+<pb n="3" facs="tcp:168579:3"/>
+with a Remorſe for their failings, and backſlidings from that <hi>Good Old Cauſe,</hi> againſt all Monarchy, Tyran<g ref="char:EOLhyphen"/>ny, or uſurpation upon ſpiritual or civil Liberties, to which God by his continual proſpering them, and they by their frequent Vows, Remonſtrances, and De<g ref="char:EOLhyphen"/>clarations have ſo often born witneſſe, and now, alſo hath given them both grace to confeſſe openly, and power to make amends for what they have through infirmity done amiſs, by reſtoring the Parliament to their Supream Authority, from whence they were moſt audaciouſly, and lawleſly expelled; whether it would not be yet their Chriſtian duty, and worthy of ſo good beginnings, to examine ſeriouſly their own hearts be<g ref="char:EOLhyphen"/>tween God and themſelves, how they can hope to make their confeſſion of their backſliding appear real, ſincere, or ſufficient in the ſight of God or man, ſo long as they do not onely not confeſs withall, and lay open the enormous faults and miſdoings, but alſo extol and magnifie the unhappy memory of their Grand backſlider, who either ſeduc'd, or compelled them to thoſe errors and ſins for which they now profeſſe to be ſo truely penitent?</p>
+            <p n="5">5. Whether any man who truely hates his ſin, can love or praiſe the memory of him who was not onely the Aſſociate, but the Author thereof? eſpecially con<g ref="char:EOLhyphen"/>ſidering, that what ever he did worthy of praiſe, he did before the time of his breach of faith to his Superiors, and whilſt he ſtood faſt and fixt to the <hi>Good Old Cauſe,</hi> wherein God proſpered him; he never ſince having done any thing from the time of his aſpiring to Mo<g ref="char:EOLhyphen"/>narchy againſt his faith and manifeſt judgement, but lived to his own ſorrow and perpetual diſquiet, day and night; nay, which is worſe, to the ſorrow, aſto<g ref="char:EOLhyphen"/>niſhment, and ſcandal of all good men, (who little ex<g ref="char:EOLhyphen"/>pected ſuch things from him) and dying diſappointed
+<pb n="4" facs="tcp:168579:4"/>
+of his utmoſt deſigns, left the State Bankrout of Trea<g ref="char:EOLhyphen"/>ſure, Honor or Intereſt, by unprofitable Wars with<g ref="char:EOLhyphen"/>out advice of Parliament, and the Commonwealth im<g ref="char:EOLhyphen"/>poveriſhed by decay of Trade; and laſtly, the Army deprived of many faithfull Officers (yet too honeſt (for ought we finde) to be taken in) reduced to thoſe Arrears which they themſelves complain of in their late Repreſentation, ſuch as they never felt, nor are like to feel under the liberal pay of a free Common<g ref="char:EOLhyphen"/>wealth, if God in mercy, and men in Juſtice vouchſafe to make us ſuch?</p>
+            <p n="6">6. Whether it were not an Act of prudence in the Parliament, becoming true Stateſmen, to look back up<g ref="char:EOLhyphen"/>on the Records and Examples of former ages, what hath been done heretoſore by Nations or Common<g ref="char:EOLhyphen"/>wealths delivered from Tytanny, to their Tyrants li<g ref="char:EOLhyphen"/>ving or dead, to their Memory, Poſterity, and Relati<g ref="char:EOLhyphen"/>ons; to the <hi>Tarquins,</hi> to <hi>Manlius Capitolinus</hi> in <hi>Rome,</hi> one<g ref="char:EOLhyphen"/>ly for affecting Monarchy, though before he had ſaved the Capitol and their Gods from the <hi>Gauls.</hi> What turned <hi>Collatinus</hi> further off his Conſulſhip into baniſh<g ref="char:EOLhyphen"/>ment? fell it not thus forth in the free State of <hi>Flo<g ref="char:EOLhyphen"/>rence,</hi> with <hi>Coſmus</hi> the firſt founder of <hi>Tuſcan</hi> Tyranny? As the Commonwealth of <hi>Greece</hi> highly honored ſuch as ſuffered for their Countrey, ſo did ſhe not (on the contrary) not onely deprive ſuch of all place and power, but alſo deeply puniſh all Tyrants and Trai<g ref="char:EOLhyphen"/>tors to the Supream power of our Soveraigne Lords the people? did they not thus ſerve <hi>Catiline</hi> and his Crew of deceitfull Senators? thus <hi>Millain</hi> ſerved the <hi>Swiſſers:</hi> thus the <hi>Hollanders,</hi> in the infancie of the <hi>Belgick</hi> freedom, ſerved their Paraſites and Apoſtates, ſtriving to ſtrangle their Liberties by conſpiracies and complots. How <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ared <hi>Themiſtocles, Miltiades, Cumillus Coriolanus,</hi> &amp;c. for their over-ingroſſing of power?
+<pb n="5" facs="tcp:168579:4"/>
+what became of others, whoſe ſtatues were tumbled down, and whoſe bones and duſt was toſt into <hi>Tyber?</hi> and marked with other ignominies?</p>
+            <p n="7">7. To do by their example in ſuch a manner, is it not a duty incumbent upon us (rather then to reward their infamy with our own reproach in their remain<g ref="char:EOLhyphen"/>ders) ſo as no ambitious Hireling hereafter may pre<g ref="char:EOLhyphen"/>ſume upon the like Apoſtacy, by hoping that either himſelf ſhall eſcape puniſhment dead or living, or that his poſterity at laſt ſhall go away with good rewards for his Treaſon and Treachery, which to this man and his family hath for ever blotted out the memory of his former merits?</p>
+            <p n="8">8. Laſtly, is it not a happy preſage of a publick ſpirit, where a people are zealous and jealous in pur<g ref="char:EOLhyphen"/>ſuance of their publick Liberties, in not permitting any ſuch growth of power as may probably or poſſibly ſupplant it? And ſeeing the leaſt error or male admi<g ref="char:EOLhyphen"/>niſtration of Government, is, or ought not to be eaſily forgiven, how ſtands it us upon for the future to take Tyranny by the foretop; to conſider our Counſellors elected, and our good old Martial Officers rejected? Have not the late practiſes of notable and abominable memory, taught us to trace Tyranny forth of one form into another? in this ſenſe ought we not to eye ſub<g ref="char:EOLhyphen"/>ſtances before ſhadows, leſt ſwerving from the Rules of a free State, or through ignorance of the principles thereof, we appear unarmed againſt the Rapes of old, and up-ſtart Aſpirers, or Monſters of mankinde, cove<g ref="char:EOLhyphen"/>ting to conſume their Countrey?</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
